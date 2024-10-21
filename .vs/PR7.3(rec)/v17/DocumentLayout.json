@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C650C0F0-D524-4E08-8E8D-F8B9ED932BC5}|UnitTest1\\UnitTest1.vcxproj|D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C650C0F0-D524-4E08-8E8D-F8B9ED932BC5}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF15037B-598B-4406-8CBF-E9DEBC0A26E0}|PR7.3(rec).vcxproj|D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\PR7.3(rec).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF15037B-598B-4406-8CBF-E9DEBC0A26E0}|PR7.3(rec).vcxproj|solutionrelative:PR7.3(rec).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T20:25:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR7.3(rec).cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\PR7.3(rec).cpp",
+              "RelativeDocumentMoniker": "PR7.3(rec).cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR7.3(rec)\\PR7.3(rec).cpp",
+              "RelativeToolTip": "PR7.3(rec).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T19:57:01.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
